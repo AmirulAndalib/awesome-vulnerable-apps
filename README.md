@@ -93,7 +93,8 @@ Paid tranining courses
 
 ## OWASP Top 10
 
-- [Owasp Juice shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+- [Owasp Juice shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+- [crApi](https://github.com/OWASP/crAPI) - completely ridiculous API: crAPI will help you to understand the ten most critical API security risks. crAPI is vulnerable by design, but you'll be able to safely run it to educate/train yourself.
 - [DVWA](https://github.com/ethicalhack3r/DVWA) - Damn Vulnerable Web Application (DVWA)
 - [DSVW](https://github.com/stamparm/DSVW) - Damn Small Vulnerable Web
 - [bWAPP](https://github.com/raesene/bWAPP) - This is just an instance of the OWASP bWAPP project as a docker container.
