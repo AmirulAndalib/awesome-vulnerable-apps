@@ -72,6 +72,7 @@ Paid tranining courses
 - [Sadcloud](https://github.com/nccgroup/sadcloud) - A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure 
 - [CNAPPgoat](https://github.com/ermetic-research/cnappgoat) - CNAPPgoat is a multi-cloud, vulnerable-by-design environment deployment tool. 
 - [Unguard](https://github.com/dynatrace-oss/unguard) - An insecure cloud-native microservices demo application for Kubernetes
+- [Vulnerable Cloud Lab](https://github.com/anpa1200/vulnerable-cloud-lab) - Intentionally vulnerable GCP and AWS infrastructure deployed with Terraform for authorized cloud security training.
 
 ## SSO - Single Sign On
 
@@ -90,6 +91,7 @@ Paid tranining courses
 - [OVAA](https://github.com/oversecured/ovaa) - Oversecured Vulnerable Android App.
 - [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid) - Android Application covering various static and dynamic vulnerabilities.
 - [Android Security Testing](https://github.com/RavikumarRamesh/hpAndro1337) - hpAndro1337 Application made in Kotlin with multiple vulnerabilities and a CTF.
+- [VulnLab APK](https://github.com/anpa1200/Vulnerable-APK) - Intentionally vulnerable Android app covering OWASP Mobile Top 10 classes with exploit commands and screenshots.
 
 ## OWASP Top 10
 
@@ -182,6 +184,7 @@ Paid tranining courses
 - [Damn Vulnerable RESTaurant](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) - Intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.
 - [VulnerableLightApp](https://github.com/Aif4thah/VulnerableLightApp) - .NET vulnerable REST API
 - [OSTE-Vulnerable-Web-Application](https://github.com/OSTEsayed/OSTE-Vulnerable-Web-Application) - Vulnerable Web application made with PHP/SQL designed to help new web testers gain some experience and test DAST tools for identifying web vulnerabilities.
+- [Vulnerable AI Lab](https://github.com/anpa1200/AI-PT-Lab) - Intentionally vulnerable AI agent lab for practicing RAG injection, tool misuse, memory poisoning, supply-chain compromise, and data exfiltration.
 
 ## Contribute
 
